@@ -126,7 +126,8 @@ end
 endmodule
 ```
 
-TestBench:
+## TestBench:
+
 D Flip Flop
 ```
 module dFlipFlop_tb;
@@ -242,7 +243,7 @@ endmodule
 
 ```
 
-Output waveform:
+## Output waveform:
 D Flip Flop
 
 <img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/15fb271a-1dcc-47ad-b0e8-635ad7cdf1a8" />
