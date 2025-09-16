@@ -28,34 +28,34 @@ Take screenshots of the waveform window and include them in your lab report to d
 You can include the timing diagram from the simulation window showing the correct functionality of the Seven Segment across different select inputs and data inputs. 
 Close the Simulation Once done, by going to Simulation → "Close Simulation
 
-Input/Output Signal Diagram:
+## Input/Output Signal Diagram:
 
-D FF
+ D FF
 
 <img width="300" height="123" alt="image" src="https://github.com/user-attachments/assets/a6869141-4219-4489-8713-048d3055d31b" />
 <img width="174" height="156" alt="image" src="https://github.com/user-attachments/assets/03f7f21e-7bfd-461c-a66b-6df6f148f595" />
 
 <br><br><br>
 
-SR FF
+ SR FF
 
 
 <img width="272" height="559" alt="image" src="https://github.com/user-attachments/assets/b3ed6ec5-9cb7-4eaa-b876-a428f1cd3a0d" />
 <br><br>
 
-JK FF
+ JK FF
 
 <img width="387" height="647" alt="image" src="https://github.com/user-attachments/assets/c98f1776-9cb4-4ce4-adee-b91c61948ba1" />
 <br><br>
 
-T FF
+ T FF
 
 <img width="300" height="143" alt="image" src="https://github.com/user-attachments/assets/b1d0f46f-fa5d-43c4-bb84-ddeaca318e8d" /><img width="300" height="127" alt="image" src="https://github.com/user-attachments/assets/77e1dd3a-3a19-406e-b6d2-a0212ce090da" />
 
 
 
 
-RTL Code:
+## RTL Code:
 D Flip Flop
 ```
 module dFlipFlop(clk,rst,d,dout);
